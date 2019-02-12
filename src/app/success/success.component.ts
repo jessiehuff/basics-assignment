@@ -5,7 +5,9 @@ import { Component } from '@angular/core';
     templateUrl: './success.component.html', 
     styles: [`
         .success {
-            color: green; 
+            padding: 20px; 
+            background-color: palegreen; 
+            border: 1px solid green; 
         }
     `]
 })
